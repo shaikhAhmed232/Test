@@ -1,0 +1,2 @@
+export const GET_CONTACTS = "GET_CONTACTS";
+export const DELETE_ALL_CONTACTS = "DELETE_ALL_CONTACTS";
